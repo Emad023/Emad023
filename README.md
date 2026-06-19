@@ -8,11 +8,11 @@ Building Enterprise AI Systems, RAG Applications, Data Platforms, and Agentic AI
 
 ## About Me
 
-- 💼 2+ years of experience in Artificial Intelligence and Machine Learning
-- 🤖 Specialized in Machine Learning, Generative AI, RAG Systems, and Data Engineering
-- 🏗️ Passionate about building production-grade AI systems that solve real business problems
-- 📊 Experienced in developing end-to-end AI solutions from data ingestion to deployment
-- 🌍 Open to AI Engineer, GenAI Engineer, ML Engineer, and AI Platform Engineer opportunities
+- 2+ years of experience in Artificial Intelligence and Machine Learning
+- Specialized in Machine Learning, Generative AI, RAG Systems, and Data Engineering
+- Passionate about building production-grade AI systems that solve real business problems
+- Experienced in developing end-to-end AI solutions from data ingestion to deployment
+- Open to AI Engineer, GenAI Engineer, ML Engineer, and AI Platform Engineer opportunities
 
 ---
 
